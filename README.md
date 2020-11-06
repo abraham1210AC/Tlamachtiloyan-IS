@@ -9,3 +9,6 @@ La manera en que se encuentra ordenado es por tres ramas:
 el archivo donde se irá actualizando semana a semana.
 
 "código" en este se encuentra las implementaciones de código en base a nuestro proyecto.
+
+Se utiliza como lenguaje de programación C++, con IDE Dev-C++ incluye TDM-GCC 4.9.2 con fecha de salida de 27 de abril de 2015,
+siendo la ultima versión lanzada.
